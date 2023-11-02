@@ -13,6 +13,7 @@
 }
 .weatherInfoContainer{
 width: 100%;
+
 }
 h1 {
     font-size: 24px;
@@ -49,6 +50,7 @@ button:hover {
     flex-direction: row;
     display: flex;
     justify-content: space-between;
+  
 }
 
 .row1{
